@@ -1,8 +1,8 @@
 <?php
 
 $servername = "localhost";
-$username = "root"; 
-$password = "159753"; 
+$username = ""; 
+$password = ""; 
 $dbname = "moduleconnexion";
 
 session_start();?>
